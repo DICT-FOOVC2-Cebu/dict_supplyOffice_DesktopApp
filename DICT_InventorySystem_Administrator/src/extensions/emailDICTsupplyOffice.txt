@@ -1,0 +1,5 @@
+email : supplyofficeDICT@gmail.com
+password: MadeByOJT_4_SupplyOffice_2018
+cellnumberr: 09205194601
+
+javax.mail.AuthenticationFailedException:534-5.7.9 Please log in with your web browser and then try again

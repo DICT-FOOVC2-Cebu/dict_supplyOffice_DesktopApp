@@ -1,0 +1,25 @@
+First is you must create this in the Xampp database first
+
+ 	 Database Name = "dict_inventory_system";
+         Username = "dictUser";
+         Password = "zJXnJx5um7RHCk9u";
+
+Note: create the Username and Password into XAMPP Priviledges
+
+Second is import the database  name dict_inventory_system.sql after you create the database "dict_inventory_system".
+
+The Login account in DICT admin is
+	username:admin
+	password:123456
+
+In Login Account for DICT Supply office is
+	username:ebdayangco
+	password:123456
+
+	Or
+
+	username:jcorona
+	password:corona111
+
+then thats it! Good Luck!
+
